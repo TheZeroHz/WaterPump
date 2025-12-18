@@ -1,0 +1,15 @@
+Required Arduino Libraries:
+
+1. LoRa by Sandeep Mistry
+   - Install via: Tools > Manage Libraries > Search "LoRa"
+   - Version: Latest stable
+
+2. RTClib by Adafruit
+   - Install via: Tools > Manage Libraries > Search "RTClib"
+   - Version: Latest stable
+
+Built-in Libraries (no installation needed):
+- Wire (I2C)
+- SPI
+- EEPROM
+
